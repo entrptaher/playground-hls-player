@@ -1,0 +1,2 @@
+require('./cors')
+require('./server')
